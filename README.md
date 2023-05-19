@@ -1,8 +1,8 @@
-### Pleasure to meet you!
+# Pleasure to meet you!
 
 ## A little bit about me
 
-# Hi, my name is Felipe Redivo Fragoso, 17 years old and currently in high school. Right now I just use GitHub for school projects, but when I start working on some other projects, I'll surely put it here. Ah, and I'm also brazilian.
+### Hi, my name is Felipe Redivo Fragoso, 17 years old and currently in high school. Right now I just use GitHub for school projects, but when I start working on some other projects, I'll surely put it here. Ah, and I'm also brazilian.
 
 <!--
 **MrFelopes/mrfelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
