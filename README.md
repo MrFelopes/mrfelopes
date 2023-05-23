@@ -1,6 +1,7 @@
 [![MasterHead](banner.png)](https://github.com/MrFelopes)
 
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;"> Pleasure to meet you! </h1>
+
 ### A little bit about me
 Hi, my name is Felipe Redivo Fragoso, 17 years old and currently in high school. Right now I use GitHub only for school projects, but when I start working on some other projects, I'll surely put it here. Ah, and I'm also brazilian.
 
