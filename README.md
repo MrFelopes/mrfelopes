@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/5oZ67cm)](https://github.com/MrFelopes)
+[![MasterHead](banner.png)](https://github.com/MrFelopes)
 
 # Pleasure to meet you!
 
