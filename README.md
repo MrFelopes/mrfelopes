@@ -1,7 +1,6 @@
 [![MasterHead](banner.png)](https://github.com/MrFelopes)
 
-## Pleasure to meet you!
-
+# Pleasure to meet you!
 ### A little bit about me
 Hi, my name is Felipe Redivo Fragoso, 17 years old and currently in high school. Right now I use GitHub only for school projects, but when I start working on some other projects, I'll surely put it here. Ah, and I'm also brazilian.
 
