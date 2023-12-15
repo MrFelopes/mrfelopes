@@ -3,14 +3,13 @@
 [![MasterHead](banner.png)](https://github.com/MrFelopes)
 
 ## A little bit about me
-Hi, my name is Felipe Redivo Fragoso, 17 years old and currently in high school. Right now I use GitHub only for school purposes, but when I start working on some other projects, I'll surely put it here. Ah, and I'm also brazilian.
-
+Hi, my name is Felipe Redivo Fragoso, I'm 17 years old and just finished high school. I'm currently looking for job applications as a developer, and have experience with HTML, CSS, JavaScript, PHP, Node.JS and libraries like React Native. I also started learning C#, although I had to stop as my PC broke :(
 ## Projects
 ### Claire Juliani (Website)
-This was my main project in school, a website for a clothing store called "Claire Juliani" that really exists and already has a website. At first, me and my team started this project with the intention of selling the site to the store owner, as well as using it for school. Unfortunately, after some internal problems, we gave up on selling the site, but still used it for the classes. The back-end of the project (the part I worked on) utilizes MySQL and PHP, while the front-end uses HTML, CSS and JavaScript.
+This was my main project in school, a website for a clothing store called "Claire Juliani" that really exists and already has a website. At first, me and my team started this project with the intention of selling the site to the store owner, as well as using it for school. Unfortunately, after some internal problems, we gave up on selling the site, but still used it for the classes. The back-end of the project (the part I worked on) utilizes MySQL and PHP, while the front-end uses HTML, CSS and JavaScript. This project has features like log-in, account creation, profile editing, product listing, product details (like pricing, sizes, collections and images) and a cart system that displays all the products in the cart as well as the sum of their prices.
 
 ### Claire Juliani (App)
-To be honest, my team just started this project because it was needed for the classes, and we did not continue it nor do we have the intention of doing so in the future, mainly because most clothing store owners don't really want an app, just a website. We used the React Native framework for the app, and it uses the Google Firebase database.
+To be honest, my team just started this project because it was needed for the classes, and we did not continue it nor do we have the intention of doing so in the future, mainly because most clothing store owners don't really want an app, just a website. We used the React Native framework for the app, and it uses the Google Firebase database. This project's features are similar to the website's, but with the addition of a password recovery method.
 
 ### Filmeflix
 Just a little simple and fun project I worked on at my first year in high school. The project's name's translation is literally "Movieflix", just Netflix with "Filme", that means "Movie" in front. We only used HTML and CSS to make it, as it was the beggining of my course.
