@@ -3,7 +3,7 @@
 [![MasterHead](banner.png)](https://github.com/MrFelopes)
 
 ## A little bit about me
-Hi, my name is Felipe Redivo Fragoso, I'm 19 years old and currently attending college. I'm currently looking for job applications as a developer, and have experience with HTML, CSS, JavaScript, PHP, Node.JS and libraries like React Native. I also started learning C#.
+Hi, my name is Felipe Redivo Fragoso, I'm 19 years old and currently attending college. I'm currently working as an intern at Ultra LIMS.  I also started learning C#.
 ## Projects
 ### Claire Juliani (Website)
 This was my main project in school, a website for a clothing store called "Claire Juliani" that really exists and already has a website. At first, me and my team started this project with the intention of selling the site to the store owner, as well as using it for school. Unfortunately, after some internal problems, we gave up on selling the site, but still used it for the classes. The back-end of the project (the part I worked on) utilizes MySQL and PHP, while the front-end uses HTML, CSS and JavaScript. This project has features like log-in, account creation, profile editing, product listing, product details (like pricing, sizes, collections and images) and a cart system that displays all the products in the cart as well as the sum of their prices.
