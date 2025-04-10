@@ -11,7 +11,7 @@ This was my main project in school, a website for a clothing store called "Clair
 ### Claire Juliani (App)
 To be honest, my team just started this project because it was needed for the classes, and we did not continue it nor do we have the intention of doing so in the future, mainly because most clothing store owners don't really want an app, just a website. We used the React Native framework for the app, and it uses the Google Firebase database. This project's features are similar to the website's, but with the addition of a password recovery method.
 
-### MangaDex_App (placeholder name)
+### Manga-ko
 This project is being worked on as a hobby and I do it on my free time. It's a project of a manga reading app that uses Mangadex's API for retrieving and displaying manga titles, covers, publishing status, chapters, etc.
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfelopes&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="mrfelopes" /></p> -->
